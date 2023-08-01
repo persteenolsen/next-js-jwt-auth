@@ -2,3 +2,5 @@
 
 Next.js 11 - JWT Authentication Example
 
+Hosted at Vercel
+
