@@ -44,7 +44,7 @@ function Login() {
     return (
         <div className="col-md-6 offset-md-3 mt-5">
 		
-		 <b>Last updated:</b>24-09-2023<br /><br />
+		 <b>Last updated: </b>24-09-2023<br /><br />
 		 
             <div className="alert alert-info">
                 Username: test<br />
