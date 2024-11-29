@@ -1,4 +1,4 @@
-# next-js-15-jwt-authentication
+# next-js-jwt-auth
 
 Next.js 15 - JWT Authentication Example
 
@@ -8,7 +8,7 @@ Hosted at Vercel
 
 Volta for Node Version Management
 
-Tech Used
+Tech Used for this Web App
 
 - Node 22.11.0
 - Next 15.0.3
