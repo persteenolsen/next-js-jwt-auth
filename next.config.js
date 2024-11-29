@@ -6,5 +6,8 @@ module.exports = {
         apiUrl: process.env.NODE_ENV === 'development'
             ? 'http://localhost:3000/api' // development api
             : 'https://next-js-jwt-auth.vercel.app/api' // production api
+
+           // Only for simulating production - Testing local http server - not Dev
+           // : 'http://localhost:3000/api' // production api
     }
 }

@@ -4,7 +4,7 @@ export { Link };
 
 function Link({ href, children, ...props }) {
     return (
-        <NextLink href={href}>
+        <NextLink legacyBehavior href={href}>
             <a {...props}>
                 {children}
             </a>
