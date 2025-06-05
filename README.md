@@ -2,7 +2,7 @@
 
 Next.js 15 - JWT Authentication Example
 
-Last Updated: 29-11-2024
+Last Updated: 05-06-2025
 
 Hosted at Vercel
 
